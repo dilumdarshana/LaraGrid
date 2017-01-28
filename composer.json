@@ -1,0 +1,17 @@
+{
+    "name": "dilumdarshana/laragrid",
+    "description": "Laravel 5.4 datagrid",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dilum Darshana",
+            "email": "dilum.dar@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0",
+
+    }
+}
